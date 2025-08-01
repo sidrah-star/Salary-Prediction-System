@@ -103,14 +103,14 @@ Note: Actual performance may vary based on dataset used.
 
 ## 🙋‍♂️ Author
 
-**Siddharth Kumar**   
-LinkedIn: https://linkedin.com/in/siddharthkumaryo
+**Sidra Hussain**   
+LinkedIn: https://www.linkedin.com/in/sidra-hussain123/
 
 ---
 
 ## 📄 Development
 
-This project is developed under the Internship through AICTE - IBM SkillsBuild in collaboration with Edunet Foundation
+This project is developed under the Internship through Upfalirs Pvt Ltd
 
 ---
 
