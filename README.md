@@ -1,4 +1,4 @@
-# Internship-Project---IBM-Skillsbuild--Edunet-Foundation--AICTE
+# Internship-Project
 # 💼 Employee Salary Prediction
 
 Welcome to the **Employee Salary Predictor** project! This machine learning-powered app estimates an employee's salary based on their personal and professional attributes like age, experience, education, gender, and occupation. It provides a regression-based approach to predict the **exact salary value**.
