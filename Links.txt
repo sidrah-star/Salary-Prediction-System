@@ -1,5 +1,4 @@
  
-Github link : https://github.com/SID-CSE/Internship-Project---IBM-Skillsbuild-Edunet-Foundation-AICTE
+Github link : https://github.com/sidrah-star/Salary-Prediction-System
 
-Project link : https://smartpay4.streamlit.app/
 
